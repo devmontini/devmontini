@@ -6,7 +6,6 @@
 - 💞️: Creativo, cooperativo, oyente ,  investigador ,  resolutivo,  detallista y flexible.
 
 - 📫:
-E-mail: devmontini@gmail.com
 Linkedin: https://www.linkedin.com/in/reactmontini/
 
 
