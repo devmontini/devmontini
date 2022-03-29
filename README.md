@@ -1,5 +1,5 @@
 <div width="100%" height="400px">
-  <img src="https://i.imgur.com/nWF9Stg.gif"/>
+  <img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
 </div>
 
 <p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
