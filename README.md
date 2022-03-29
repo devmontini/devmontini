@@ -1,4 +1,4 @@
--<img width="500" height="400" src="https://i.imgur.com/nWF9Stg.gif"/>
+-<img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
 
 
 <p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
@@ -8,23 +8,14 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS],
+   language: ["JavaScript", "TypeScript"],
    technologies: {
-      frontEnd: {
-         js: ["React", "React Native"],
-         css: ["Bootstrap", "Material UI", "Tailwind"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         misc: ["Bash"]
-      },
-      test: ["Jest", "Mocha"],
-      databases: ["Heroku", "PostgreSQL", "Firebase"],
-      mobile: ["Android", "IOS"]
+      front:["React", "Redux", "Angular"],
+      back: ["Node", "Express", "Prisma", "Sequelize"],
+      styles: ["Bootstrap", "CSS/HTML", "Tailwind"],
+      db: ["PostgreSQL"],
    },
-   currentOccupation: [" "],
-   challenge: "Creando e investigando",
-   learning: [TypeScript, 
+   platforms: ["Firebase", "Heroku", "Vercel", "GitHub"],
 };
 ```
 </br></br>
