@@ -1,4 +1,4 @@
--<img src="https://i.imgur.com/nWF9Stg.gif"/>
+-<img width="500" height="400" src="https://i.imgur.com/nWF9Stg.gif"/>
 
 
 <p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
