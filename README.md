@@ -2,11 +2,7 @@
   <img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
 </div>
 
-<style type="text/css">
- div { display: flex, whidth: 100%, justify-content: center }
-</style>
-
-<div>
+<div style="display: flex, whidth: 100%, justify-content: center">
   <a href="https://www.linkedin.com/in/devmontini/">
     <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
