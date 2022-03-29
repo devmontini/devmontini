@@ -2,9 +2,16 @@
   <img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
 </div>
 
+<a href="https://www.linkedin.com/in/devmontini/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://devmontini.github.io/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/affinityphoto.svg" />
+</a>
+
 <p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
   En mi experiencia pasada fui Museografo, Curador y Montajista en diversos museos, los cuales me aportaron la capacidad y experiencia para desarrollar proyectos y trabajar en equipo. 😊</br>
-</em></p>
+</em>
 
 
 ```javascript
