@@ -7,14 +7,12 @@
     <a href="https://www.linkedin.com/in/devmontini/">
         Linkedin
     </a>
-</div>
-<div>
+
     <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     <a href="https://github.com/devmontini/">
         GitHub
     </a>
-</div>
-<div>
+
     <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/affinityphoto.svg" />
     <a href="https://devmontini.github.io/">
       Portfolio
