@@ -3,13 +3,13 @@
 </div>
 
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-Linkedin(https://www.linkedin.com/in/devmontini/)
+[Linkedin](https://www.linkedin.com/in/devmontini/)
 
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-GitHub(https://github.com/devmontini/)
+[GitHub](https://github.com/devmontini/)
    
 <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/affinityphoto.svg" />
-Portfolio(https://devmontini.github.io/)
+[Portfolio](https://devmontini.github.io/)
 
 
 
