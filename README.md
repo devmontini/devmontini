@@ -1,13 +1,10 @@
-<img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
-
-- [Linkedin](https://www.linkedin.com/in/devmontini/) - [GitHub](https://github.com/devmontini/) - [Portfolio](https://devmontini.github.io/)
-
-
-
 <p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
   En mi experiencia pasada fui Museografo, Curador y Montajista en diversos museos, los cuales me aportaron la capacidad y experiencia para desarrollar proyectos y trabajar en equipo. 😊</br>
 </em>
 
+<img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
+
+- [Linkedin](https://www.linkedin.com/in/devmontini/) - [GitHub](https://github.com/devmontini/) - [Portfolio](https://devmontini.github.io/)
 
 ```javascript
 const aboutMe = {
