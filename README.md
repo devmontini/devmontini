@@ -1,12 +1,6 @@
-<div width="100%" height="400px">
-  <img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
-</div>
+<img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
 
-[Linkedin](https://www.linkedin.com/in/devmontini/)
-
-[GitHub](https://github.com/devmontini/)
-   
-[Portfolio](https://devmontini.github.io/)
+[Linkedin](https://www.linkedin.com/in/devmontini/) [GitHub](https://github.com/devmontini/) [Portfolio](https://devmontini.github.io/)
 
 
 
