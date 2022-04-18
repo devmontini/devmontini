@@ -1,21 +1,22 @@
-<p><em>👋! Soy programador Full-Stack, adquirí mis conocimientos en Henry y a través de investigaciones, trabajos propios. 
-  En mi experiencia pasada fui Museografo, Curador y Montajista en diversos museos, los cuales me aportaron la capacidad y experiencia para desarrollar proyectos y trabajar en equipo. 😊</br>
+<p><em>👋! A Javascript and computer enthusiast! Passionate about the backend, its programming logic and cheatsheets.
+I am currently learning Go and creating apps. 😊</br>
 </em>
 
-<img width="100%" height="400px" src="https://i.imgur.com/nWF9Stg.gif"/>
-
-- [Linkedin](https://www.linkedin.com/in/devmontini/) - [GitHub](https://github.com/devmontini/) - [Portfolio](https://devmontini.github.io/)
+- [Linkedin](https://www.linkedin.com/in/devmontini/) 
+- [GitHub](https://github.com/devmontini/) 
+- [Portfolio](https://devmontini.github.io/)
 
 ```javascript
 const aboutMe = {
    language: ["JavaScript", "TypeScript"],
    technologies: {
-      front:["React", "Redux", "Angular"],
+      front:["React", "Redux", "HTML"],
       back: ["Node", "Express", "Prisma", "Sequelize"],
-      styles: ["Bootstrap", "CSS/HTML", "Tailwind"],
+      styles: ["Bootstrap", "CSS", "Tailwind"],
       db: ["PostgreSQL"],
    },
-   platforms: ["Firebase", "Heroku", "Vercel", "GitHub"],
+   deploys: ["Firebase", "Heroku", "Vercel"],
+   others: [ "GitHub", "GIT", "VSCode" ]
 };
 ```
 <h2>💻 Some stats 💻</h2>
