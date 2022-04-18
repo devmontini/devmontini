@@ -1,5 +1,6 @@
 <p><em>👋! A Javascript and computer enthusiast! Passionate about apps, programming logic and cheatsheets.</em></p>
 <p><em>📚 Currently learning Go... </em></p>
+
 Visit my [Linkedin](https://www.linkedin.com/in/devmontini/) and [Portfolio](https://devmontini.github.io/) for more info.
 
 ```javascript
@@ -15,7 +16,6 @@ const aboutMe = {
    others: [ "GitHub", "GIT", "VSCode" ]
 };
 ```
-<img src="https://komarev.com/ghpvc/?username=devmontini&color=45707a&style=flat-square" alt="GitHub page views">
 
 <h2>💻 Some stats 💻</h2>
 
@@ -23,6 +23,8 @@ const aboutMe = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmontini&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,roff,css,scheme,scss&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" alt="GitHub readme stats" width=405px>
 
+ <img src="https://komarev.com/ghpvc/?username=devmontini&color=45707a&style=flat-square" alt="GitHub page views">
+ 
 ---
 
 ⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars) and [FelixRilling](https://github.com/)
