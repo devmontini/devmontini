@@ -1,4 +1,4 @@
-<p><em>👋! A Javascript and computer enthusiast! Passionate about the apps, programming logic and cheatsheets.
+<p><em>👋! A Javascript and computer enthusiast! Passionate about apps, programming logic and cheatsheets.</br>
 Currently learning Go... </br>
 </em>
 
