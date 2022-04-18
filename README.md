@@ -29,4 +29,4 @@ const aboutMe = {
 
 ---
 
-⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81) and [FelixRilling](https://github.com/)
+⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars) and [FelixRilling](https://github.com/)
