@@ -1,8 +1,6 @@
 <p><em>👋! A Javascript and computer enthusiast! Passionate about apps, programming logic and cheatsheets.</em></p>
-   </br>
 <p><em>📚 Currently learning Go... </em></p>
-
-
+   </br>
 Visit my [Linkedin](https://www.linkedin.com/in/devmontini/) and [Portfolio](https://devmontini.github.io/) for more info.
 
 ```javascript
