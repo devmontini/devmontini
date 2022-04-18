@@ -1,10 +1,8 @@
-<p><em>👋! A Javascript and computer enthusiast! Passionate about the backend, its programming logic and cheatsheets.
-I am currently learning Go and creating apps. 😊</br>
+<p><em>👋! A Javascript and computer enthusiast! Passionate about the apps, programming logic and cheatsheets.
+Currently learning Go... </br>
 </em>
 
-- [Linkedin](https://www.linkedin.com/in/devmontini/) 
-- [GitHub](https://github.com/devmontini/) 
-- [Portfolio](https://devmontini.github.io/)
+Visit my [Linkedin](https://www.linkedin.com/in/devmontini/), [GitHub](https://github.com/devmontini/) and [Portfolio](https://devmontini.github.io/) for more info.
 
 ```javascript
 const aboutMe = {
