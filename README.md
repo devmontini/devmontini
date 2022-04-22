@@ -1,7 +1,7 @@
 <p><em>👋! A Javascript and computer enthusiast! Passionate about apps, programming logic and cheatsheets.</em></p>
 <p><em>📚 Currently learning Go... </em></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devmontini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Visit my [Linkedin](https://www.linkedin.com/in/devmontini/) and [Portfolio](https://devmontini.github.io/) for more info.
