@@ -1,3 +1,4 @@
+<h2>💻 My Info 💻</h2>
 
 ```javascript
 var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend, programming logic and cheatsheets."
@@ -24,6 +25,7 @@ Visit my [Linkedin](https://www.linkedin.com/in/devmontini/) and [Portfolio](htt
 ---
 
 <h2>💻 Some stats 💻</h2>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devmontini&column=8&theme=onedark&no-frame=true"/>
 </a>
