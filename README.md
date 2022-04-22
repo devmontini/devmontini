@@ -30,7 +30,7 @@ skills.language.push(lerning)
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=devmontini&column=8&theme=onedark&no-frame=true"/>
 </a>
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=devmontini&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height="170" align="left" src=" https://github-readme-stats.vercel.app/api?username=devmontini&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Angelo&nbsp;Fallaria's&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmontini&layout=compact&theme=onedark&hide_border=true&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=devmontini&color=45707a&style=flat-square" alt="GitHub page views">
