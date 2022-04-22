@@ -19,7 +19,6 @@ skills.language.push(lerning)
 
 ```
 
-<p><em>📚 Currently learning Go... </em></p>
 Visit my [Linkedin](https://www.linkedin.com/in/devmontini/) and [Portfolio](https://devmontini.github.io/) for more info.
 
 ---
