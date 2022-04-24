@@ -29,7 +29,9 @@ skills.language.push(lerning)
 <div>
    <a href="https://github.com/devmontini?tab=repositories" target="_blank">
       <img src="https://github-profile-trophy.vercel.app/?username=devmontini&column=8&theme=onedark&no-frame=true"/>
-   </a><a href="https://github.com/devmontini?tab=repositories" target="_blank">
+   </a>
+   
+   <a href="https://github.com/devmontini?tab=repositories" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=devmontini&style=flat-square" alt="GitHub page views">
    </a>
    
