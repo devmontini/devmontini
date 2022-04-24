@@ -1,7 +1,3 @@
-<h1 align="center"> Hello! </h1>
-
----
-
 <h2 align="center"> My Info </h2>
 
 ```javascript
@@ -47,10 +43,6 @@ skills.language.push(lerning)
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmontini&layout=compact&theme=onedark&hide_border=true&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&custom_title=My&nbsp;Language&nbsp;Stats" />
    </a>
 </div>
-
-<img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
-
-<br>
 
 ---
 
