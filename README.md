@@ -31,9 +31,9 @@ skills.language.push(lerning)
   </td>
   <td width="50%">
 
-&nbsp;<p align="center"> Hi![d]<br><br>
+&nbsp;<p align="center"> Hi!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/devmontini/)
-[![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+[![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
   </p>
   </td>
@@ -41,7 +41,7 @@ skills.language.push(lerning)
 
 ---
 
-<h2 align="center"> Some stats </h2>s
+<h2 align="center"> Some stats </h2>
 
 <div>
    <a href="https://github.com/devmontini?tab=repositories" target="_blank">
