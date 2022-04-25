@@ -41,7 +41,7 @@ skills.language.push(lerning)
 
 ---
 
-<h2 align="center"> Some stats </h2>
+<h2 align="center"> Some stats </h2>s
 
 <div>
    <a href="https://github.com/devmontini?tab=repositories" target="_blank">
