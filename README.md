@@ -61,6 +61,6 @@ skills.language.push(lerning)
 
 ---
 
-<h2 align="center"> Some Thank </h2>
+<h2 align="center"> Some Thanks </h2>
 
 ⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [ryo-ma](https://github.com/ryo-ma), [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars), [Novatorem](https://github.com/novatorem) and [FelixRilling](https://github.com/FelixRilling)  
