@@ -1,4 +1,4 @@
-<h2 align="center"> My Info </h2>
+<h2 align="center"> Some Info </h2>
 
 ```javascript
 var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend, programming logic and cheatsheets."
@@ -22,6 +22,8 @@ skills.language.push(lerning)
 
 ---
 
+<h2 align="center">  Some Tests </h2>
+
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -41,7 +43,7 @@ skills.language.push(lerning)
 
 ---
 
-<h2 align="center"> Some stats </h2>
+<h2 align="center"> Some Stats </h2>
 
 <div>
    <a href="https://github.com/devmontini?tab=repositories" target="_blank">
@@ -58,5 +60,7 @@ skills.language.push(lerning)
 </div>
 
 ---
+
+<h2 align="center"> Some Thank </h2>
 
 ⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [ryo-ma](https://github.com/ryo-ma), [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars), [Novatorem](https://github.com/novatorem) and [FelixRilling](https://github.com/FelixRilling)  
