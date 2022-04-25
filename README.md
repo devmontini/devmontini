@@ -28,8 +28,9 @@ skills.language.push(lerning)
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-devmontini.vercel.app
-/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/11148925557)
+&nbsp; <br> 
+     
+[![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/11148925557)
 
   </td>
   <td width="50%">
