@@ -25,7 +25,7 @@ skills.language.push(lerning)
 <h2 align="center">  Some Tests </h2>
 
 <table width="100%" align="center"> 
-  <td width="85%" align="center">
+  <td width="85%" align="space-around">
 
      
 ![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117)
