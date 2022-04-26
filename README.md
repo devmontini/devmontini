@@ -1,7 +1,7 @@
 <h2 align="center"> Some Info </h2>
 
 ```javascript
-var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend, programming logic and cheatsheets."
+var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend and cheatsheets."
 
 var skills = {
    language: ["JavaScript", "TypeScript"],
@@ -24,8 +24,8 @@ skills.language.push(lerning)
 
 <h2 align="center">  Some Tests </h2>
 
-<table width="100%" align="space-around"> 
-  <td width="85%" align="space-around">
+<table width="100%" display="flex" justify-content="center" align-items="center"> 
+  <td width="85%" display="flex" justify-content="center" align-items="center">
 
      
 ![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117)
