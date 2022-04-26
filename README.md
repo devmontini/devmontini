@@ -36,7 +36,9 @@ skills.language.push(lerning)
   <td width="50%">
 
 &nbsp;<p align="center"> Hi!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/devmontini/)
+     
+[![Dev](https://img.shields.io/badge/linked-in-369?style=flat&logo=facebook&logoColor=white&color=blue)](https://dev.to/devmontini)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/devmontini/)
 [![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
   </p>
