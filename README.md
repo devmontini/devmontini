@@ -23,9 +23,15 @@ skills.language.push(lerning)
 ---
 
 <h2 align="center">  Some Tests </h2>
- 
-![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 
+<table width="100%"> 
+  <td width="70%">
+
+     
+![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117)
+     
+  </td>
+  <td width="30%">
      
 [![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20-%23DA8100.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/210275/franco-montini)
@@ -34,6 +40,9 @@ skills.language.push(lerning)
 [![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmontini/)
 [![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
+     
+  </td>
+</table>
 
 ---
 
