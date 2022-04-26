@@ -25,13 +25,13 @@ skills.language.push(lerning)
 <h2 align="center">  Some Tests </h2>
 
 <table width="100%"> 
-  <td width="80%">
+  <td width="85%">
 
      
 ![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117)
      
   </td>
-  <td width="20%">
+  <td width="15%">
      
 [![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20-%23DA8100.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/210275/franco-montini)
