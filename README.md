@@ -37,7 +37,8 @@ skills.language.push(lerning)
 
 &nbsp;<p align="center"> Hi!<br><br>
      
-[![Dev](https://img.shields.io/badge/linked-in-369?style=flat&logo=dev&logoColor=white&color=blue)](https://dev.to/devmontini)
+[![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
+[![Instagram](https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fran_montini/)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmontini/)
 [![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
