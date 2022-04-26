@@ -38,7 +38,7 @@ skills.language.push(lerning)
 &nbsp;<p align="center"> Hi!<br><br>
      
 [![Dev](https://img.shields.io/badge/linked-in-369?style=flat&logo=dev&logoColor=white&color=blue)](https://dev.to/devmontini)
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/devmontini/)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmontini/)
 [![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
   </p>
