@@ -34,9 +34,9 @@ skills.language.push(lerning)
   <td width="30%">
      
 [![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow%20-%230077B5.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/210275/franco-montini)
-[![Stackoverflow](https://img.shields.io/badge/spotify%20-%230077B5.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/11148925557)
-[![Instagram](https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fran_montini/)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow%20-%23DA8100.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/210275/franco-montini)
+[![Stackoverflow](https://img.shields.io/badge/spotify%20-%2337A60D.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/11148925557)
+[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fran_montini/)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmontini/)
 [![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
