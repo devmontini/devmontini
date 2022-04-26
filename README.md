@@ -26,16 +26,14 @@ skills.language.push(lerning)
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="70%">
 
 &nbsp; <br> 
      
 [![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/11148925557)
 
   </td>
-  <td width="50%">
-
-&nbsp;<p align="center"> Hi!<br><br>
+  <td width="30%">
      
 [![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
 [![Instagram](https://img.shields.io/badge/instagram%20-%230077B5.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fran_montini/)
