@@ -24,7 +24,7 @@ skills.language.push(lerning)
 
 <h2 align="center">  Some Tests </h2>
 
-<table width="100%" display="flex" content="center" align="center"> 
+<table width="100%" display="flex" justify="center" align="center"> 
   <td width="85%" display="flex" justify="center" align="center">
 
      
