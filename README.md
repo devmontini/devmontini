@@ -4,11 +4,11 @@
 var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend and cheatsheets."
 
 var skills = {
-   language: ["JavaScript", "TypeScript"],
+   language: ["JavaScript", "TypeScript", "Python"],
    technologies: {
-      back: ["Node.js", "Express", "Soket", "JWT"],
+      back: ["Node.js", "Express", "Soket", "JWT", "FastAPI"],
       orm: ["Prisma", "Sequelize"],
-      db: ["PostgreSQL, MySQL"],
+      db: ["PostgreSQL, MySQL, SQL Server"],
       front:["React", "Redux", "HTML"],
       testing: ["Jest", "Mocha"],
       others: [ "GitHub", "GIT", "VSCode" ],
