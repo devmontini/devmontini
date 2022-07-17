@@ -4,19 +4,19 @@
 var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend and cheatsheets."
 
 var skills = {
-   language: ["JavaScript", "TypeScript", "Python"],
+   language: ["JavaScript", "TypeScript", "Golang"],
    technologies: {
-      back: ["Node.js", "Express", "Soket", "JWT", "FastAPI"],
-      orm: ["Prisma", "Sequelize"],
-      db: ["PostgreSQL, MySQL, SQL Server"],
+      back: ["Node.js", "Express", "Fiber", "JWT"],
+      orm: ["Prisma", "Sequelize", "GORM"],
+      db: ["PostgreSQL", "MySQL", "SQL Server","MongoDB"],
       front:["React", "Redux", "HTML"],
       testing: ["Jest", "Mocha"],
-      others: [ "GitHub", "GIT", "VSCode" ],
+      others: [ "GitHub", "GIT", "Microservices", "Firebase", "Vercel"],
       styles: ["CSS", "Tailwind"]
    },
 };
 
-var lerning = "Golang"
+var lerning = "Python"
 
 skills.language.push(lerning)
 
