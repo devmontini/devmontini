@@ -6,11 +6,11 @@ var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about back
 var skills = {
    language: ["JavaScript", "TypeScript", "Golang"],
    technologies: {
-      back: ["Node.js", "Express", "Fiber", "JWT", "FastAPI"],
+      back: ["Node.js", "Express", "Fiber"],
       orm: ["Prisma", "Sequelize", "GORM"],
       db: ["PostgreSQL", "MySQL", "SQL Server","MongoDB"],
-      front:["React", "Redux", "HTML"],
-      testing: ["Jest", "Mocha"],
+      front:["React", "Redux/Toolkit", "HTML"],
+      testing: ["Jest", "Mocha", "Supertest"],
       others: [ "GitHub", "GIT", "Microservices", "Firebase", "Vercel"],
       styles: ["CSS", "Tailwind"]
    },
