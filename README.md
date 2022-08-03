@@ -11,12 +11,12 @@ var skills = {
       db: ["PostgreSQL", "MySQL", "SQL Server","MongoDB"],
       front:["React", "Redux/Toolkit", "HTML"],
       testing: ["Jest", "Mocha", "Supertest"],
-      others: [ "GitHub", "GIT", "Microservices", "Firebase", "Vercel"],
-      styles: ["CSS", "Tailwind"]
+      others: [ "GitHub", "GIT", "Docker", "Dockerhub"],
+      styles: ["CSS", "Tailwind", "Boostrap"]
    },
 };
 
-var lerning = "Python"
+var lerning = "Kubernets"
 
 skills.language.push(lerning)
 
