@@ -16,10 +16,6 @@ var skills = {
    },
 };
 
-var lerning = "Kubernets"
-
-skills.language.push(lerning)
-
 ```
 
 ---
