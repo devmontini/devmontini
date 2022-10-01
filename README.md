@@ -1,18 +1,19 @@
 <h2 align="center"> Some Info </h2>
 
 ```javascript
-var aboutMe = "👋! A Javascript and computer enthusiast! Passionate about backend and cheatsheets."
+let aboutMe = "👋! A developer enthusiast! Passionate about backend and cheatsheets."
 
-var skills = {
-   language: ["JavaScript", "TypeScript", "Golang"],
-   technologies: {
-      back: ["Node.js", "Express", "Fiber"],
-      orm: ["Prisma", "Sequelize", "GORM"],
-      db: ["PostgreSQL", "MySQL", "SQL Server","MongoDB"],
-      front:["React", "Redux/Toolkit", "HTML"],
-      testing: ["Jest", "Mocha", "Supertest"],
-      others: [ "GitHub", "GIT", "Docker", "Dockerhub"],
-      styles: ["CSS", "Tailwind", "Boostrap"]
+let skills = {
+   Language: ["JavaScript/TypeScript", "Golang", "Pascal/Delphi"],
+   Technologies: {
+      Backend: ["NodeJS", "Express", "Fiber", "Gorilla/mux", "Gin"],
+      Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
+      DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
+      ORMs: ["Sequalize", "Prisma", "GORM"],
+      Testing: ["Supertest", "Mocha", "Chai", "Golang testing Package"],
+      Documentation: ["Postman","Swagger"],
+      Controlers: ["Git", "GitHub", "Docker","Docker Hub"],
+      Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
    },
 };
 
