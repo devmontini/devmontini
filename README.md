@@ -4,15 +4,15 @@
 let aboutMe = "👋! A developer enthusiast! Passionate about backend and cheatsheets."
 
 let skills = {
-   Language: ["JavaScript/TypeScript", "Golang", "Pascal/Delphi"],
+   Language: ["JavaScript/TypeScript", "Java", "Golang"],
    Technologies: {
-      Backend: ["NodeJS", "Express", "Fiber", "Gorilla/mux", "Gin"],
+      Backend: ["NodeJS", "Express", "Spring boot", "Gorilla/mux", "Gin"],
       Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
       DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
       ORMs: ["Sequalize", "Prisma", "GORM"],
       Testing: ["Supertest", "Mocha", "Chai", "Golang testing Package"],
       Documentation: ["Postman","Swagger"],
-      Controlers: ["Git", "GitHub", "Docker","Docker Hub"],
+      Controlers: ["Git", "Kubernetes", "GitHub", "Docker","Docker Hub"],
       Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
    },
 };
