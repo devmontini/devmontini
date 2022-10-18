@@ -1,13 +1,7 @@
 <h2 align="center"> Some Info </h2>
 
-
-
----
-
-<h2 align="center">  Some Tests </h2>
-
 <table width="100%" display="flex" justify="center" align="center"> 
-  <td width="85%" display="flex" justify="center" align="center">
+  <td width="85%" display="flex" justify="flex-star" align="flex-start">
      
 ```javascript
 let aboutMe = "👋! A developer enthusiast! Passionate about backend and cheatsheets."
@@ -40,8 +34,3 @@ let skills = {
   </td>
 </table>
 
----
-
-<h2 align="center"> Some Thanks </h2>
-
-⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [ryo-ma](https://github.com/ryo-ma), [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars), [Novatorem](https://github.com/novatorem) and [FelixRilling](https://github.com/FelixRilling)  
