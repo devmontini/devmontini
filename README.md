@@ -45,24 +45,6 @@ let skills = {
 
 ---
 
-<h2 align="center"> Some Stats </h2>
-
-<div>
-   <a href="https://github.com/devmontini?tab=repositories" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=devmontini&column=8&theme=onedark&no-frame=true"/>
-   </a>
-   
-   <a href="https://github.com/devmontini?tab=repositories" target="_blank">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=devmontini&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&nbsp;Stats&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&count_private=true" />
-   </a>
-   
-   <a href="https://github.com/devmontini?tab=repositories" target="_blank">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmontini&layout=compact&theme=onedark&hide_border=true&title_color=a9b665&icon_color=e3a84e&text_color=dfbf8e&bg_color=282828&;Language&nbsp;Stats" />
-   </a>
-</div>
-
----
-
 <h2 align="center"> Some Thanks </h2>
 
 ⭐️ Edited by [devmontini](https://github.com/devmontini) inspired by [ryo-ma](https://github.com/ryo-ma), [reeveng](https://github.com/reeveng), [sudiptog81](https://github.com/sudiptog81), [angelofallars](https://github.com/angelofallars), [Novatorem](https://github.com/novatorem) and [FelixRilling](https://github.com/FelixRilling)  
