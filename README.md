@@ -4,7 +4,7 @@
   <td width="85%" display="flex" justify="flex-star" align="flex-start">
      
 ```javascript
-let aboutMe = "👋! A developer enthusiast! Passionate about backend and cheatsheets."
+let aboutMe = "Backend developer enthusiast! Testing"
 
 let skills = {
    Language: ["JavaScript/TypeScript", "Java", "Golang"],
