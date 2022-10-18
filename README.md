@@ -27,17 +27,13 @@ let skills = {
   <td width="85%" display="flex" justify="center" align="center">
 
      
-![Spotify](https://novatorem-devmontini.vercel.app/api/spotify?background_color=0d1117)
-     
   </td>
   <td width="15%">
      
 [![Dev](https://img.shields.io/badge/dev%20-%230077B5.svg?&style=flat&logo=dev&logoColor=white)](https://dev.to/devmontini)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow%20-%23DA8100.svg?&style=flat&logo=stackoverflow&logoColor=white)](https://es.stackoverflow.com/users/210275/franco-montini)
 [![Stackoverflow](https://img.shields.io/badge/Spotify%20-%2337A60D.svg?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/11148925557)
-[![Instagram](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fran_montini/)
 [![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmontini/)
-[![Visits](https://komarev.com/ghpvc/?username=devmontini&logo=GitHub&label=Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/devmontini)
 
      
   </td>
