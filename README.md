@@ -1,5 +1,14 @@
 <h2 align="center"> Some Info </h2>
 
+
+
+---
+
+<h2 align="center">  Some Tests </h2>
+
+<table width="100%" display="flex" justify="center" align="center"> 
+  <td width="85%" display="flex" justify="center" align="center">
+     
 ```javascript
 let aboutMe = "👋! A developer enthusiast! Passionate about backend and cheatsheets."
 
@@ -18,14 +27,6 @@ let skills = {
 };
 
 ```
-
----
-
-<h2 align="center">  Some Tests </h2>
-
-<table width="100%" display="flex" justify="center" align="center"> 
-  <td width="85%" display="flex" justify="center" align="center">
-
      
   </td>
   <td width="15%">
