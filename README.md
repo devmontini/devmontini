@@ -7,9 +7,9 @@
 let aboutMe = "Backend developer enthusiast! Testing"
 
 let skills = {
-   Language: ["JavaScript/TypeScript", "Java", "Golang"],
+   Language: ["JavaScript/TypeScript", "Golang"],
    Technologies: {
-      Backend: ["NodeJS", "Express", "Spring boot", "Gorilla/mux", "Gin"],
+      Backend: ["NodeJS", "Express", "Gorilla/mux", "Gin"],
       Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
       DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
       ORMs: ["Sequalize", "Prisma", "GORM"],
