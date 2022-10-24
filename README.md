@@ -2,7 +2,8 @@
 
 <table width="100%" display="flex" justify="center" align="center"> 
   <td width="85%" display="flex" justify="flex-star" align="flex-start">
-     
+  
+```
 let skills = {
    Language: ["JavaScript/TypeScript", "Golang"],
    Technologies: {
@@ -14,8 +15,7 @@ let skills = {
       Documentation: ["Postman","Swagger"],
       Controlers: ["Git", "Kubernetes", "GitHub", "Docker","Docker Hub"],
       Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
-   },
-};
+},
 
 ```
      
