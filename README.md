@@ -3,9 +3,6 @@
 <table width="100%" display="flex" justify="center" align="center"> 
   <td width="85%" display="flex" justify="flex-star" align="flex-start">
      
-```javascript
-let aboutMe = "Backend developer enthusiast! Testing"
-
 let skills = {
    Language: ["JavaScript/TypeScript", "Golang"],
    Technologies: {
