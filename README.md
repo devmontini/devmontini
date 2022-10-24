@@ -4,9 +4,10 @@
   <td width="85%" display="flex" justify="flex-star" align="flex-start">
   
 ```
+    
 let skills = {
-   Language: ["JavaScript/TypeScript", "Golang"],
-   Technologies: {
+  Language: ["JavaScript/TypeScript", "Golang"],
+    Technologies: {
       Backend: ["NodeJS", "Express", "Gorilla/mux", "Gin"],
       Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
       DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
@@ -15,7 +16,7 @@ let skills = {
       Documentation: ["Postman","Swagger"],
       Controlers: ["Git", "Kubernetes", "GitHub", "Docker","Docker Hub"],
       Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
-},
+}
 
 ```
      
