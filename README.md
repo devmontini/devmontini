@@ -9,13 +9,13 @@ let skills = {
   Language: ["JavaScript/TypeScript", "Golang"],
     Technologies: {
       Backend: ["NodeJS", "Express", "Gorilla/mux", "Gin"],
-      Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
       DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
       ORMs: ["Sequalize", "Prisma", "GORM"],
       Testing: ["Supertest", "Mocha", "Chai", "Golang testing Package"],
       Documentation: ["Postman","Swagger"],
       Controlers: ["Git", "Kubernetes", "GitHub", "Docker","Docker Hub"],
       Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
+      Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
 }
 
 ```
