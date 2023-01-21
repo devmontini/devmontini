@@ -6,15 +6,15 @@
 ```
     
 let skills = {
-  Language: ["JavaScript/TypeScript", "Golang"],
+  Language: ["Golang", "JavaScript/TypeScript"],
     Technologies: {
       Backend: ["NodeJS", "Express", "Gorilla/mux", "Gin"],
-      DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server"],
+      DataBase: ["PostgresSQL", "MongoDB", "MySQL", "SQL Server", "MariaDB"],
       ORMs: ["Sequalize", "Prisma", "GORM"],
       Testing: ["Supertest", "Mocha", "Chai", "Golang testing Package"],
-      Documentation: ["Postman","Swagger"],
+      Documentation: ["Postman", "Swagger"],
       Controlers: ["Git", "Kubernetes", "GitHub", "Docker","Docker Hub"],
-      Tools: ["VSCode", "RAD", "Jira", "Slack", "Notion", "Miro"],
+      Tools: ["Jira", "Slack", "Notion", "Miro"],
       Frontend: ["React", "Redux", "HTML/CSS", "Tailwind", "Boostrap"],
 }
 
